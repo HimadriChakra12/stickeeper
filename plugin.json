@@ -1,0 +1,12 @@
+{
+  "ID": "com.yourname.sticker-keeper",
+  "Name": "Sticker Keeper",
+  "Description": "Search stickers in ~/stickers and copy full image to clipboard",
+  "Author": "You",
+  "Version": "1.0.0",
+  "Language": "python",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "run.py",
+  "ActionKeywords": ["h"]
+}
+
